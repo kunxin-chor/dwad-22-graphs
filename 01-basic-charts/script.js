@@ -5,7 +5,7 @@
 // are designed by ApexCharts people
 const options = {
     "chart": {
-        "type":"bar"
+        "type":"line"
     },
     // series: each series represents one set of data
     // one object in the array represents one series
