@@ -1,0 +1,2 @@
+createReachChart();
+createCampaignChart();
